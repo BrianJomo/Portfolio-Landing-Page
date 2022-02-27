@@ -251,3 +251,32 @@ h5{
 	border: 2px solid #FFE62E;
 	cursor: pointer;
 }	
+.Contact{
+	width: 100%;
+	height: 290px;
+	background: #191919;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	justify-content: center;
+}
+.Contact p{
+	color: white;
+	font-size: 30px;
+	font-weight: bold;
+	margin-bottom: 25px;
+}
+.Contact .Button2{
+	background-color:#FFE62E;
+	color: white;
+	text-decoration: none;
+	border: 2px solid transparent;
+	font-weight: bold;
+	padding: 13px 30px;
+	border-radius: 30px;
+	transition: .4s; 
+}
+.Contact .Button2:hover{
+	background-color: transparent;
+	border: 2px solid #FFE62E;
+	cursor: pointer;
