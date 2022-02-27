@@ -7,7 +7,7 @@
 .Top{
 	height: 109vh;
 	width: 100%;
-	background-image: url("https://images.pexels.com/photos/2387793/pexels-photo-2387793.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"); 
+	background-image: url ("https://images.pexels.com/photos/2387793/pexels-photo-2387793.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"); 
 	background-size: cover;
 	background-position: center;
 }
