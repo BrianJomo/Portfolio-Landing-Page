@@ -166,3 +166,88 @@ button:hover{
 	border: 2px solid #FFE62E;
 	cursor: pointer;
 }
+
+.Service{
+	background: #101010;
+	width: 100%;
+	padding: 100px 0px;
+}
+.Head h2{
+	color: white;
+	font-size: 75px;
+	width: 1130px;
+	margin: 30px auto;
+	text-align: center;
+}
+.Box{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 400px;
+}
+.Slide{
+	height: 365px;
+	width: 335px;
+	padding: 20px 35px;
+	background: #191919;
+	border-radius: 20px;
+	margin: 15px;
+	position: relative;
+	overflow: hidden;
+	text-align: center;
+}
+.Slide i{
+	font-size: 50px;
+	display: block;
+	text-align: center;
+	margin: 25px 0px;
+	color: #FFE62E;
+}
+
+.Rest {
+background-color: yellow;
+height: 50px;
+margin-bottom: 15px;
+border-radius: 5px;
+}
+
+.Sure {
+  background-color: yellow;
+  height: 50px;
+  margin-bottom: 15px;
+	border-radius: 5px;
+}
+
+.Exam {
+  background-color: yellow;
+  height: 50px;
+  margin-bottom: 15px;
+	border-radius: 5px;
+}
+
+h5{
+	color: white;
+	font-size: 23px;
+	margin-bottom: 15px;
+}
+.Paragraph p{
+	color: #869008;
+	font-size: 16px;
+	line-height: 27px;
+	margin-bottom: 25px;
+}
+.Slide .button{
+	background-color:#FFE62E;
+	color: white;
+	text-decoration: none;
+	border: 2px solid transparent;
+	font-weight: bold;
+	padding: 9px 22px;
+	border-radius: 30px;
+	transition: .4s; 
+}
+.Slide .button:hover{
+	background-color: transparent;
+	border: 2px solid #FFE62E;
+	cursor: pointer;
+}	
