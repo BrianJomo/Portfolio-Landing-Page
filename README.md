@@ -68,6 +68,6 @@ SOFTWARE.
 
 ## Authors Info
 
-Email - [Brian Jomo](Brianofficial39@gmail.com)
+Email - [Brian Range](Brianofficial39@gmail.com)
 
-Linked - [Brian Jomo](www.linkedin.com/in/brian-jomo)
+Linked - [Brian Range](www.linkedin.com/in/brian-jomo)
